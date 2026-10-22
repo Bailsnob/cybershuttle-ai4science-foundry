@@ -36,7 +36,6 @@ pip install -e .
 Before running on SLURM, you can test the model locally:
 
 ```bash
-python tests/test_fno.py
 python tests/darcy_inference.py
 ```
 
